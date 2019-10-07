@@ -10,4 +10,4 @@ append.push('Odie')
 
 prepend.unshift('Odie')
 
-removeFirst.shift
+removeFirst.shift()
