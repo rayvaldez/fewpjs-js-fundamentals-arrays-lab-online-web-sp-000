@@ -8,4 +8,4 @@ const removeLast = ["Milo", "Otis", "Garfield"]
 
 append.push('Odie')
 
-prepend.shift('Odie')
+prepend.unshift('Odie')
